@@ -1,0 +1,11 @@
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowserDB.mdf
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowserDB_log.ldf
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.exe.config
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.exe
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.pdb
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.Properties.Resources.resources
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csproj.GenerateResource.cache
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csproj.CoreCompileInputs.cache
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.exe
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.pdb
+C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csprojAssemblyReference.cache
