@@ -13,3 +13,18 @@ C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrow
 C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.csproj.CopyComplete
 C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.exe
 C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.pdb
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowserDB.mdf
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowserDB_log.ldf
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowser.Logic.exe.config
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowser.Logic.exe
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowser.Logic.pdb
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowser.Data.exe
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowser.Data.pdb
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\bin\Debug\WebBrowser.Data.exe.config
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.Properties.Resources.resources
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.csproj.CopyComplete
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.exe
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Logic\obj\Debug\WebBrowser.Logic.pdb

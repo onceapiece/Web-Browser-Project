@@ -9,3 +9,14 @@ C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrows
 C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.exe
 C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.pdb
 C:\Users\Collin Smith\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowserDB.mdf
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowserDB_log.ldf
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.exe.config
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.exe
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.pdb
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.Properties.Resources.resources
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.exe
+C:\Users\Colin\Documents\GitHub\Web-Browser-Project\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.pdb
